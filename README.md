@@ -1,10 +1,10 @@
 # USBD-Stop
 
-![USBD Stop icon](https://github.com/itsjackx/Discord-VirtualCams/blob/main/assets/icon.png)
+![USBD Stop icon](https://github.com/itsjackx/USBD-Stop/blob/main/assets/icon.png)
 
 This tool allows you to fix the USB bug on your Mac.
 
-<p>The .dmg file: <a href="https://github.com/itsjackx/Discord-VirtualCams/blob/main/VirtualCamDC.dmg">here</a></p>
+<p>The .dmg file: <a href="https://github.com/itsjackx/USBD-Stop/blob/main/VirtualCamDC.dmg">here</a></p>
 
 ## Installation
 
