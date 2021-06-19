@@ -2,7 +2,8 @@
 
 ![USBD Stop icon](https://github.com/itsjackx/USBD-Stop/blob/main/assets/icon.png)
 
-This tool allows you to fix the USB bug on your Mac.
+If your phone connects and disconnects all the time after you plug it in, you have to use this program.
+This tool allows you to fix this USB bug on your Mac.
 
 <p>The .dmg file: <a href="https://github.com/itsjackx/USBD-Stop/blob/main/USBDstop.dmg">here</a></p>
 
@@ -16,4 +17,4 @@ This tool allows you to fix the USB bug on your Mac.
 
 ## NOTE!
 
-- Every time you restart your Mac, you simply need to run the program again.
+- You can use this problem as many times as you want. When you need it, you can run it.
