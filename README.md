@@ -17,4 +17,4 @@ This tool allows you to fix this USB bug on your Mac.
 
 ## NOTE!
 
-- You can use this problem as many times as you want. When you need it, you can run it.
+- You can use this program as many times as you want. When you need it, you can run it.
